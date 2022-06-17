@@ -1,7 +1,3 @@
-### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-I am a beginner React developer keen on building usable, useful, well-constructed applications. 
-Interested in continuation of learning and cooperation with excellent people.
-
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/QmH8OnsBQvC4yn8BnX/giphy.gif" width="100"/>
   <div id="badges">
@@ -18,9 +14,12 @@ Interested in continuation of learning and cooperation with excellent people.
   <img src="https://komarev.com/ghpvc/?username=Wasilisk&style=flat-square&color=blue" alt="Wasilisk"/>
 </div>
 
+### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+I am a beginner React developer keen on building usable, useful, well-constructed applications. 
+Interested in continuation of learning and cooperation with excellent people.
 
-###<h3>Things I code with</h3>
-</br>
+
+<h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -37,6 +36,6 @@ Interested in continuation of learning and cooperation with excellent people.
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+</br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wasilisk&show_icons=true&theme=gotham" alt="Wasilisk" /></p>
