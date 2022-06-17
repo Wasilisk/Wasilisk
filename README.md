@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=Wasilisk&style=flat-square&color=blue" alt="Wasilisk"/>
 </div>
 
-### <div><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</div>
+### <div><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my github page.</div>
 I am a beginner React developer keen on building usable, useful, well-constructed applications. 
 Interested in continuation of learning and cooperation with excellent people.
 
-## My experience
+## Experience
 <ul>
 <li>Developing single-page applications using React Develop project concepts and maintain optimal workflow.</li>
 <li>Working with modern front-end tools and libraries.</li>
@@ -35,7 +35,7 @@ Interested in continuation of learning and cooperation with excellent people.
   <p><blockquote>"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them."</blockquote> - Andrew Hunt</p>
 </div>
 
-## My skills
+## Skills
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -60,4 +60,5 @@ Interested in continuation of learning and cooperation with excellent people.
 </div>
 </br>
 
+## Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wasilisk&show_icons=true&theme=gotham" alt="Wasilisk" /></p>
