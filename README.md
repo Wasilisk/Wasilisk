@@ -58,7 +58,6 @@ Interested in continuation of learning and cooperation with excellent people.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
-</br>
 
 ## Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wasilisk&show_icons=true&theme=gotham" alt="Wasilisk" /></p>
