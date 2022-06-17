@@ -18,6 +18,18 @@
 I am a beginner React developer keen on building usable, useful, well-constructed applications. 
 Interested in continuation of learning and cooperation with excellent people.
 
+<h3>My experience</h3>
+<ul>
+<li>Developing single-page applications using React Develop project concepts and maintain optimal workflow.</li>
+<li>Working with modern front-end tools and libraries.</li>
+<li>Using the Flux architecture to build the user interface of web applications.</li>
+<li>Creating reusable React components and managing application state with Redux.</li>
+<li>Applying Redux middleware using Redux-thunk/Redux-saga.</li>
+<li>Writing a REST API using Express/Nest.js library</li>
+<li>Creating, managing databases</li>
+</ul>
+
+<p align="center"> <img src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif"/></p>
 
 <h3>Things I code with</h3>
 <p>
