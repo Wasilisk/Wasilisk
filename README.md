@@ -28,8 +28,8 @@ Interested in continuation of learning and cooperation with excellent people.
 <li>Writing a REST API using Express/Nest.js library</li>
 <li>Creating, managing databases</li>
 </ul>
-
-<p align="center"> <img src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif"/></p>
+</br>
+<p align="center"> <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif"/></p>
 
 <h3>Things I code with</h3>
 <p>
