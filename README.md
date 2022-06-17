@@ -29,7 +29,11 @@ Interested in continuation of learning and cooperation with excellent people.
 <li>Creating, managing databases</li>
 </ul>
 </br>
-<p align="center"> <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif"/></p>
+
+<div align="center"> 
+  <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif"/>
+  <p><blockquote>"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them."</blockquote> - Andrew Hunt</p>
+</div>
 
 <h3>Things I code with</h3>
 <p>
