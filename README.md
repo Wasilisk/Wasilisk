@@ -3,7 +3,7 @@ I am a beginner React developer keen on building usable, useful, well-constructe
 Interested in continuation of learning and cooperation with excellent people.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/QmH8OnsBQvC4yn8BnX/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/vasyl-petryna-9815a321b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +19,7 @@ Interested in continuation of learning and cooperation with excellent people.
 </div>
 
 
-<h3>Things I code with</h3>
+### <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
