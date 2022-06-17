@@ -20,8 +20,8 @@ Interested in continuation of learning and cooperation with excellent people.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wasilisk&show_icons=true&theme=gotham" alt="Wasilisk" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wasilisk&show_icons=true&theme=gotham" alt="Wasilisk" /></p>
 <p align="center">
-![](https://raw.githubusercontent.com/Wasilisk/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Wasilisk/github-stats-transparent/output/generated/languages.svg)
+<img src="https://raw.githubusercontent.com/Wasilisk/github-stats-transparent/output/generated/overview.svg"/>
+<img src="https://raw.githubusercontent.com/Wasilisk/github-stats-transparent/output/generated/languages.svg"/>
 </p>
