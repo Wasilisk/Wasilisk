@@ -9,4 +9,6 @@ Interested in continuation of learning and cooperation with excellent people.
 * :paintbrush: JavaScript, HTML, CSS, Bootstrap
 * :large_orange_diamond: Git
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wasilisk)
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wasilisk&show_icons=true&theme=gotham" alt="Wasilisk" />
