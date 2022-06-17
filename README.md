@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Vasyl Petryna
+I am a beginner React developer keen on building usable, useful, well-constructed applications. 
+Interested in continuation of learning and cooperation with excellent people.
 
-<!--
-**Wasilisk/Wasilisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills: 
+* :desktop_computer: C#, ASP.NET Core MVC, Web API 
+* :notebook: EF Core, MS SQL Server
+* :book: xUnit, Moq
+* :paintbrush: JavaScript, HTML, CSS, Bootstrap
+* :large_orange_diamond: Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wasilisk)
