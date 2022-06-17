@@ -21,3 +21,7 @@ Interested in continuation of learning and cooperation with excellent people.
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wasilisk&show_icons=true&theme=gotham" alt="Wasilisk" />
+<p align="center">
+![](https://raw.githubusercontent.com/Wasilisk/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Wasilisk/github-stats-transparent/output/generated/languages.svg)
+</p>
