@@ -15,16 +15,16 @@
 </div>
 
 ### <div><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my github page.</div>
-I am a beginner React developer keen on building usable, useful, well-constructed applications. 
+I am a beginner React/Node.js developer keen on building usable, useful, well-constructed applications. 
 Interested in continuation of learning and cooperation with excellent people.
 
 ## Experience
 <ul>
-<li>Developing single-page applications using React Develop project concepts and maintain optimal workflow.</li>
+<li>Developing single-page applications using React(Typescript).</li>
 <li>Working with modern front-end tools and libraries.</li>
 <li>Using the Flux architecture to build the user interface of web applications.</li>
 <li>Creating reusable React components and managing application state with Redux.</li>
-<li>Applying Redux middleware using Redux-thunk/Redux-saga.</li>
+<li>Applying Redux middleware (Redux-thunk/Redux-saga).</li>
 <li>Writing a REST API using Express/Nest.js library</li>
 <li>Creating, managing databases</li>
 </ul>
